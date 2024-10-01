@@ -1,5 +1,5 @@
 {
-  "name": "breakpoint-tool",
+  "name": "@ronaldjesse/breakpoint-hint",
   "version": "1.0.0",
   "description": "Breakpoint tool for bootstrap and tailwind",
   "main": "tailwind.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ronaldjesse/breakpoint-tool.git"
+    "url": "git+https://github.com/ronaldjesse/breakpoint-hint.git"
   },
   "author": "Ronald Jesse",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ronaldjesse/breakpoint-tool/issues"
+    "url": "https://github.com/ronaldjesse/breakpoint-hint/issues"
   },
-  "homepage": "https://github.com/ronaldjesse/breakpoint-tool#readme"
+  "homepage": "https://github.com/ronaldjesse/breakpoint-hint#readme"
 }
