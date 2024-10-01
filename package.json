@@ -1,5 +1,5 @@
 {
-  "name": "@ronaldjesse/breakpoint-hint",
+  "name": "breakpoint-hint",
   "version": "1.0.0",
   "description": "Breakpoint tool for bootstrap and tailwind",
   "main": "tailwind.js",
