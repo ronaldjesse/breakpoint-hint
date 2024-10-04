@@ -20,5 +20,11 @@ if(process.env.NODE_ENV !== 'production') {
 
 		let currentBbFadeOut = bbFadeOut();
 
+		window.addEventListener('resize', function() {
+			document.querySelector('body > .bb-tailwind-breakpoint-tool').style.opacity = 1;
+			clearTimeout(currentBbFadeOut);
+
+			currentBbFadeOut = bbFadeOut();
+		})
 	}
 }
